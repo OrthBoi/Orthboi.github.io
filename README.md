@@ -1,5 +1,3 @@
-# Orthboi.github.io
-
 # Schulische Ausbildung
 Kantonsschule Baden IMS
 
@@ -7,7 +5,12 @@ Kantonsschule Baden IMS
 C#
 
 # Sprachen
-Deutsch (Muttersprache)
-Englisch
-Französisch
+- [ ] Deutsch (Muttersprache)
+- [ ] Englisch
+- [ ] Französisch
 
+# Hobbies
+- [ ] Programmieren
+- [ ] Sport
+- [ ] Lesen
+      
