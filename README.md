@@ -5,12 +5,12 @@ Kantonsschule Baden IMS
 C#
 
 # Sprachen
-- [ ] Deutsch (Muttersprache)
-- [ ] Englisch
-- [ ] Französisch
+- Deutsch (Muttersprache)
+- Englisch
+- Französisch
 
 # Hobbies
-- [ ] Programmieren
-- [ ] Sport
-- [ ] Lesen
+- Programmieren
+- Sport
+- Lesen
       
