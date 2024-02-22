@@ -7,7 +7,6 @@ C#
 # Sprachen
 - Deutsch (Muttersprache)
 - Englisch
-- Französisch
 
 # Hobbies
 - Programmieren
